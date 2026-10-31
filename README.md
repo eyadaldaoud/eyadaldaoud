@@ -35,7 +35,7 @@ Responsive interfaces, thoughtful product flows, API integrations, and bilingual
 
 ## Selected impact
 
-- Improved web app load times by **20%** and reduced post-release defects by **30%** at EqraTech.
+- Improved web app load times by **20%** and reduced post-release defects by **30%**.
 - Designed the main architecture for a maritime services project, streamlining service delivery from months to days.
 - B.S. in Computer Science *(in progress)*.
 
