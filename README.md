@@ -28,7 +28,7 @@ Responsive interfaces, thoughtful product flows, API integrations, and bilingual
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| [⚛️ QuantaLab](https://github.com/eyadaldaoud/QuantaLab) · [Live](https://thequantumbench.vercel.app/) | Interactive 3D Double-Slit lab with wave/particle modes, wavelength controls, and a live probability distribution. | `Next.js` `TypeScript` `Three.js` |
+| [⚛️ QuantaLab](https://github.com/eyadaldaoud/QuantaLab) · [Live](https://thequantalab.vercel.app/) | Interactive 3D Double-Slit lab with wave/particle modes, wavelength controls, and a live probability distribution. | `Next.js` `TypeScript` `Three.js` |
 | [📣 CrossPost Bot](https://github.com/eyadaldaoud/cross-post-bot) | Publishes video to Telegram, Instagram Reels, and Facebook Pages from Telegram, with retry-safe processing. | `Next.js` `Supabase` `Telegram` `Meta API` |
 | [📬 MailCleaner](https://github.com/eyadaldaoud/mail-cleaner) | Gmail cleanup dashboard with bulk actions and saved rules; processes metadata without storing message content. | `Next.js` `Google OAuth` `Supabase` |
 | [🧾 Fawtara](https://eyadg.netlify.app) | Arabic/English invoice builder with RTL layouts, four designs, live preview, and PDF export. | `Next.js` `TypeScript` `Supabase` |
