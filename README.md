@@ -40,7 +40,6 @@ Responsive interfaces, thoughtful product flows, API integrations, and bilingual
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eyadaldaoud&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Eyad's GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=eyadaldaoud&theme=tokyonight&hide_border=true" alt="Eyad's GitHub contribution streak" />
 </div>
 
