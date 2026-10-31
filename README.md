@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/eyadaldaoud/eyadaldaoud/main/assets/profile-banner.svg" alt="Eyad Aldaoud · Frontend Developer" width="100%" />
+<img src="https://raw.githubusercontent.com/eyadaldaoud/eyadaldaoud/main/assets/profile-banner.svg" alt="Eyad Aldaoud · Software Engineer, frontend-focused" width="100%" />
 
 <br />
 
