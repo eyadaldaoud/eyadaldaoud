@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/eyadaldaoud/eyadaldaoud/main/assets/profile-banner.svg" alt="Eyad Aldaoud · Software Engineer, frontend-focused" width="100%" />
+<img src="https://raw.githubusercontent.com/eyadaldaoud/eyadaldaoud/main/assets/profile-banner-engineer.svg" alt="Eyad Aldaoud · Software Engineer" width="100%" />
 
 <br />
 
@@ -8,7 +8,7 @@
 
 I build useful web products with React, Next.js, and TypeScript.
 
-Based in Jordan · Interested in frontend engineering and product-focused teams
+Interested in frontend engineering and product-focused teams
 
 [Portfolio](https://eyadg.netlify.app) &nbsp;·&nbsp; [Projects](https://github.com/eyadaldaoud?tab=repositories) &nbsp;·&nbsp; [Email](mailto:eyadzoubi40@gmail.com)
 
@@ -36,8 +36,8 @@ Responsive interfaces, thoughtful product flows, API integrations, and bilingual
 ## Selected impact
 
 - Improved web app load times by **20%** and reduced post-release defects by **30%** at EqraTech.
-- Designed the main architecture for a Jordan Maritime Commission ship-services project, streamlining service delivery from months to days.
-- B.S. Computer Science at Jadara University *(in progress)*.
+- Designed the main architecture for a maritime services project, streamlining service delivery from months to days.
+- B.S. in Computer Science *(in progress)*.
 
 ## GitHub activity
 
