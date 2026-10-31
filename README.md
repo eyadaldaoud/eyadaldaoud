@@ -4,7 +4,9 @@
 
 <br />
 
-### I build useful web products with React, Next.js, and TypeScript.
+### Software Engineer · Frontend-focused
+
+I build useful web products with React, Next.js, and TypeScript.
 
 Based in Jordan · Interested in frontend engineering and product-focused teams
 
