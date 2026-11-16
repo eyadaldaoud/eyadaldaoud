@@ -4,47 +4,102 @@
 
 <br />
 
-[About](#about) &nbsp;·&nbsp; [Stack](#-what-i-build-with) &nbsp;·&nbsp; [Projects](#-featured-projects) &nbsp;·&nbsp; [Impact](#-selected-impact) &nbsp;·&nbsp; [Connect](#-connect)
+<a href="#about">ABOUT</a> &nbsp;·&nbsp; <a href="#work">WORK</a> &nbsp;·&nbsp; <a href="#toolkit">TOOLKIT</a> &nbsp;·&nbsp; <a href="#impact">IMPACT</a> &nbsp;·&nbsp; <a href="#contact">CONTACT</a>
 
 </div>
 
 <br />
+
+<table>
+<tr>
+<td width="62%" valign="top">
 
 ## About
 
-Frontend-focused software engineer. I turn ideas into shipped products — interfaces that load fast, feel good to use, and hold up under real users. Comfortable across the stack, opinionated about the frontend.
+I’m a frontend-focused software engineer who builds product interfaces and the systems behind them. I care about fast, accessible experiences, thoughtful interaction, and software that stays reliable after launch.
 
-I also build **bilingual Arabic/English experiences** with proper right-to-left layouts, not just mirrored text.
+I also build **Arabic and English products** with proper right-to-left support, from layout through export.
 
-- B.S. in Computer Science *(in progress)*
-- Open to frontend roles with React and Next.js
+</td>
+<td width="38%" valign="top">
 
-<br />
+### Now
 
-## What I build with
+- 🎓 B.S. Computer Science, in progress
+- 🧭 Open to frontend roles
+- 🧰 React · Next.js · TypeScript
+- 🌍 Arabic / English · RTL
 
-**Frontend**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs&perline=6" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Three.js" />
-</div>
-
-**Backend & data**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,python&perline=6" alt="Supabase, PostgreSQL, Python" />
-</div>
+</td>
+</tr>
+</table>
 
 <br />
 
-## Featured projects
+## Selected work
 
-| Project | What it does | Stack |
-|:--|:--|:--|
-| **[QuantaLab](https://github.com/eyadaldaoud/QuantaLab)** · [live](https://thequantalab.vercel.app/) | Interactive 3D double-slit lab with wave/particle modes, wavelength controls, and a live probability distribution. | `Next.js` `TypeScript` `Three.js` |
-| **[CrossPost Bot](https://github.com/eyadaldaoud/cross-post-bot)** | Publishes video to Telegram, Instagram Reels, and Facebook Pages from Telegram, with retry-safe processing. | `Next.js` `Supabase` `Telegram` `Meta API` |
-| **[MailCleaner](https://github.com/eyadaldaoud/mail-cleaner)** | Gmail cleanup dashboard with bulk actions and saved rules; processes metadata without ever storing message content. | `Next.js` `Google OAuth` `Supabase` |
-| **[Fawtara](https://eyadg.netlify.app)** | Arabic/English invoice builder with RTL layouts, four designs, live preview, and PDF export. | `Next.js` `TypeScript` `Supabase` |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [QuantaLab ↗](https://thequantalab.vercel.app/)
+
+An interactive 3D double-slit experiment. Explore wave and particle modes, change the wavelength, and watch the probability distribution respond.
+
+**Next.js** · **TypeScript** · **Three.js**
+
+[Source](https://github.com/eyadaldaoud/QuantaLab)
+
+</td>
+<td width="50%" valign="top">
+
+### [CrossPost Bot ↗](https://github.com/eyadaldaoud/cross-post-bot)
+
+A Telegram workflow for publishing video to Instagram Reels and Facebook Pages, with retry-safe processing.
+
+**Next.js** · **Supabase** · **Telegram** · **Meta API**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [MailCleaner ↗](https://github.com/eyadaldaoud/mail-cleaner)
+
+A Gmail cleanup dashboard with bulk actions and saved rules. It processes message metadata without storing email content.
+
+**Next.js** · **Google OAuth** · **Supabase**
+
+</td>
+<td width="50%" valign="top">
+
+### [Fawtara ↗](https://eyadg.netlify.app)
+
+A bilingual invoice builder with RTL layouts, four templates, live preview, and PDF export.
+
+**Next.js** · **TypeScript** · **Supabase**
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## Toolkit
+
+<div align="center">
+
+**INTERFACES**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs&perline=6" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Three.js" />
+
+<br /><br />
+
+**BACKEND & DATA**
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres,python&perline=6" alt="Supabase, PostgreSQL, Python" />
+
+</div>
 
 <br />
 
@@ -52,41 +107,39 @@ I also build **bilingual Arabic/English experiences** with proper right-to-left 
 
 <div align="center">
 
-| | | |
-|:--:|:--:|:--:|
-| **20%** | **30%** | **months → days** |
-| faster web app load times | fewer post-release defects | maritime services delivery, core architecture |
+<table>
+<tr>
+<td align="center" width="33%"><strong>20%</strong><br />faster web app load times</td>
+<td align="center" width="33%"><strong>30%</strong><br />fewer post-release defects</td>
+<td align="center" width="33%"><strong>Months → days</strong><br />maritime services delivery</td>
+</tr>
+</table>
 
 </div>
 
 <br />
 
-## GitHub stats
+## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=eyadaldaoud&theme=tokyonight&hide_border=true&card_width=450" alt="Eyad's GitHub contribution streak" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=eyadaldaoud&theme=tokyonight&hide_border=true&card_width=450" alt="Eyad's GitHub contribution streak" />
+
 </div>
 
 <br />
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eyadaldaoud/eyadaldaoud/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eyadaldaoud/eyadaldaoud/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated snake following my GitHub contribution graph" src="https://raw.githubusercontent.com/eyadaldaoud/eyadaldaoud/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+## Contact
+
+<div align="center" id="contact">
+
+<a href="https://eyadg.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-eyadg.netlify.app-0C1A30?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" /></a>
+<a href="https://github.com/eyadaldaoud?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-browse%20repositories-0C1A30?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+<a href="mailto:eyadzoubi40@gmail.com"><img src="https://img.shields.io/badge/EMAIL-say%20hello-0C1A30?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+
 </div>
 
-<br />
-
-## Connect
-
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-eyadg.netlify.app-0C1A30?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://eyadg.netlify.app)
-[![GitHub](https://img.shields.io/badge/Repositories-eyadaldaoud-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eyadaldaoud?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-eyadzoubi40@gmail.com-0C1A30?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:eyadzoubi40@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:070B16,50:1D4E6E,100:0E7490&section=footer&text=Let%27s%20build%20something%20good.&fontSize=24&fontAlignY=68" alt="Footer wave" />
-
+<br />
+<sub>Building useful things, one thoughtful detail at a time.</sub>
 </div>
