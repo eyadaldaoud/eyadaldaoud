@@ -4,7 +4,7 @@
 
 <br />
 
-<a href="#about">ABOUT</a> &nbsp;·&nbsp; <a href="#work">WORK</a> &nbsp;·&nbsp; <a href="#toolkit">TOOLKIT</a> &nbsp;·&nbsp; <a href="#impact">IMPACT</a> &nbsp;·&nbsp; <a href="#contact">CONTACT</a>
+<a href="#about">ABOUT</a> &nbsp;·&nbsp; <a href="#selected-work">WORK</a> &nbsp;·&nbsp; <a href="#toolkit">TOOLKIT</a> &nbsp;·&nbsp; <a href="#selected-impact">IMPACT</a> &nbsp;·&nbsp; <a href="#contact">CONTACT</a>
 
 </div>
 
