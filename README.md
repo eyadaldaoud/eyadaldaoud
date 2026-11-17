@@ -4,35 +4,9 @@
 
 <br />
 
-<a href="#about">ABOUT</a> &nbsp;·&nbsp; <a href="#selected-work">WORK</a> &nbsp;·&nbsp; <a href="#toolkit">TOOLKIT</a> &nbsp;·&nbsp; <a href="#selected-impact">IMPACT</a> &nbsp;·&nbsp; <a href="#contact">CONTACT</a>
+<a href="#selected-work">WORK</a> &nbsp;·&nbsp; <a href="#toolkit">TOOLKIT</a> &nbsp;·&nbsp; <a href="#contact">CONTACT</a>
 
 </div>
-
-<br />
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-## About
-
-I’m a frontend-focused software engineer who builds product interfaces and the systems behind them. I care about fast, accessible experiences, thoughtful interaction, and software that stays reliable after launch.
-
-I also build **Arabic and English products** with proper right-to-left support, from layout through export.
-
-</td>
-<td width="38%" valign="top">
-
-### Now
-
-- 🎓 B.S. Computer Science, in progress
-- 🧭 Open to frontend roles
-- 🧰 React · Next.js · TypeScript
-- 🌍 Arabic / English · RTL
-
-</td>
-</tr>
-</table>
 
 <br />
 
@@ -97,23 +71,7 @@ A bilingual invoice builder with RTL layouts, four templates, live preview, and 
 
 **BACKEND & DATA**
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres,python&perline=6" alt="Supabase, PostgreSQL, Python" />
-
-</div>
-
-<br />
-
-## Selected impact
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%"><strong>20%</strong><br />faster web app load times</td>
-<td align="center" width="33%"><strong>30%</strong><br />fewer post-release defects</td>
-<td align="center" width="33%"><strong>Months → days</strong><br />maritime services delivery</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=supabase,python&perline=6" alt="Supabase, Python" />
 
 </div>
 
@@ -133,9 +91,8 @@ A bilingual invoice builder with RTL layouts, four templates, live preview, and 
 
 <div align="center" id="contact">
 
-<a href="https://eyadg.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-eyadg.netlify.app-0C1A30?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" /></a>
+<a href="https://eyad.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-eyad.vercel.app-0C1A30?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" /></a>
 <a href="https://github.com/eyadaldaoud?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-browse%20repositories-0C1A30?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-<a href="mailto:eyadzoubi40@gmail.com"><img src="https://img.shields.io/badge/EMAIL-say%20hello-0C1A30?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
 </div>
 
